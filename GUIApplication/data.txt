@@ -1,0 +1,16 @@
+DATA LOG
+************************
+Customer Name: Oros
+Product: Cozy Nights Monarch
+VAT: R 210.0
+COMMISSION: R 70.0
+TOTAL: R 1680.0
+************************
+DATA LOG
+************************
+Customer Name: Oros
+Product: Cozy Nights Monarch
+VAT: R 525.0
+COMMISSION: R 175.0
+TOTAL: R 4200.0
+************************
